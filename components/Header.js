@@ -92,7 +92,7 @@ const Header = () => {
             </ul>
           </div>
 
-          <DarkModeToggle className={`${nav.link} focus:outline-none`} />
+          <DarkModeToggle className={`${nav.link} focus:outline-none flex items-center justify-center`} />
         </div>
       </nav>
     </div>
